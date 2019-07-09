@@ -1,2 +1,2 @@
-# tsy_git_example
-training materials
+# My contact details
+my email is dominic.shore@treasury.gov.au
